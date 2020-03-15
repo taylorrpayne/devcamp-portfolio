@@ -30,5 +30,5 @@
 yarn-debug.log*
 .yarn-integrity
 
-#I don't want to show my master key
+#I don't want to show my credentials
 /config/credentials.yml.enc
