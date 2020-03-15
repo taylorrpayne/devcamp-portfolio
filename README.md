@@ -17,6 +17,6 @@ def my_great_method
 end
 ```
 ```javascript
-aleart('Hi there');
+alert('Hi there');
 
 ```
